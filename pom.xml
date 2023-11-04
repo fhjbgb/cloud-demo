@@ -5,6 +5,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>cloud-user</module>
+        <module>cloud-common</module>
+        <module>cloud-goods</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -1,13 +1,11 @@
-package com.example.clouddemo;
+package com.goods;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CloudDemoApplication {
-
+public class CloudGoodsAppilcation {
     public static void main(String[] args) {
-        SpringApplication.run(CloudDemoApplication.class, args);
+        SpringApplication.run(CloudGoodsAppilcation.class, args);
     }
-
 }
